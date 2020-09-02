@@ -30,7 +30,7 @@
 		<div class="logo">
 			<!-- In the img folder, upload your logo -->
 			<!-- Make sure you name it 'logo.png' -->
-			<img src="img/logo.PNG" alt="Mega Craft Server">
+			<img src="img/logo.png" alt="Mega Craft Server">
 		</div>
 
 		<div class="items">

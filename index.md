@@ -5,10 +5,10 @@
 <html>
 <head>
 	<!-- Info meta tags, important for social media + SEO -->
-	<title>Mega Craft - Site Oficial</title>
+	<title>Mega Craft Servidor - Site Oficial</title>
 	<meta name="description" content="Mega Craft é um novo e incrível servidor do Minecraft. Você pode entrar com o IP 'jogar.megacraft.com.br'.">
-	<meta property="og:title" content="Mega Craft - Site Oficial">
-	<meta property="og:site_name" content="Mega Craft">
+	<meta property="og:title" content="Mega Craft Servidor- Site Oficial">
+	<meta property="og:site_name" content="Mega Craft Servidor">
 	<meta property="og:description" content="Mega Craft é um novo e incrível servidor do Minecraft. Você pode entrar com o IP 'jogar.megacraft.com.br'.">
 	<meta property="og:image" content="https://bybilly.uk/portal/img/minecraft.jpg">
 	<meta property="og:url" content="https://bybilly.uk/">
@@ -30,7 +30,7 @@
 		<div class="logo">
 			<!-- In the img folder, upload your logo -->
 			<!-- Make sure you name it 'logo.png' -->
-			<img src="img/logo.png" alt="MyServer logo">
+			<img src="img/logo.png" alt="Mega Craft Server">
 		</div>
 
 		<div class="items">
@@ -69,8 +69,8 @@
 			<!-- Replace play.myserver.net with your IP address -->
 			<!-- Do it for both examples below -->
 			<!-- Please set both your IP and port -->
-			<p>Venha jogar conosco, <b>jogar.megacraft.com.br</b> e com mais outros
-			<span class="ip" data-playercounter-ip="144.217.10.143:25959">0</span> jogadores online.	</p>
+			<p>Venha jogar conosco, <span class="ip"><b>jogar.megacraft.com.br</b></span> e com mais outros
+			<span data-playercounter-ip="144.217.10.143:25959">0</span> jogadores online.	</p>
 
 			 
         	

@@ -42,7 +42,7 @@
 			<!-- Replace # with your store URL -->
 			<a href="#" class="item store">
 			<div>
-				<img src="img/store.png" alt="Minecraft store icon" class="img">
+				<img src="img/store.gif" alt="Minecraft store icon" class="img">
 				<p class="subtitle">compre seu vip!</p>
 				<p class="title">Loja</p>
 			</div>

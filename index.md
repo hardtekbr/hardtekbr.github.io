@@ -9,17 +9,11 @@
 	<meta property="og:image" content="https://bybilly.uk/portal/img/minecraft.jpg">
 	<meta property="og:url" content="https://bybilly.uk/">
 	<meta name="twitter:card" content="summary_large_image">
-
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="css/stylesheet.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
-
-    <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter@1.1.1/dist/mc-player-counter.min.js"></script>
-
-<link rel="stylesheet" href="iconicss.min.css">
-
+	<script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter@1.1.1/dist/mc-player-counter.min.js"></script>
 </head>
 <body>
 	<div class="container">
@@ -28,7 +22,6 @@
 			<!-- Make sure you name it 'logo.png' -->
 			<img src="img/logo.png" alt="Mega Craft Server">
 		</div>
-
 		<div class="items">
 			<!-- Replace # with your forum URL-->
 			<a href="http://discord.megacraft.com.br" target="_blank" class="item forums">
@@ -38,7 +31,6 @@
 				<p class="title">Discord</p>
 			</div>
 			</a>
-
 			<!-- Replace # with your store URL -->
 			<a href="#" class="item store">
 			<div>
@@ -47,7 +39,6 @@
 				<p class="title">Loja</p>
 			</div>
 			</a>
-
 			<!-- Replace # with your vote URL -->
 			<a href="#" class="item vote" onclick="openfunc()">
 			<div>
@@ -56,29 +47,16 @@
 				<p class="title">Votar</p>
 			</div>
 			</a>
-
-
 		</div>
-
-
 		<div  style="background-color:powderblue;">
 			<!-- Replace play.myserver.net with your IP address -->
 			<!-- Do it for both examples below -->
 			<!-- Please set both your IP and port -->
 			<p>Venha jogar conosco, <span class="ip"><b>jogar.megacraft.com.br</b></span> e com mais outros
-			<span data-playercounter-ip="144.217.10.143:25959">0</span> jogadores online.	</p>
-
-			 
-        	
+			<span data-playercounter-ip="144.217.10.143:25959">0</span> jogadores online.	</p>	
         	<p><b>MegaCraft</b> Atualmente está <span data-playercounter-ip="144.217.10.143:25959" data-playercounter-status>...</span> - Capacidade: <b><span data-playercounter-ip="144.217.10.143:25959" data-playercounter-format="{online}/{max}">0</span></b></p>
-
-		
-
-
-
 		</div>
 	</div>
-
 	<script src="https://code.jquery.com/jquery-1.11.2.min.js" type="text/javascript"></script>
 	<script src="js/firefly.js" type="text/javascript"></script>
 	<script src="js/main.js" type="text/javascript"></script>

@@ -18,7 +18,7 @@
 
     <script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter@1.1.1/dist/mc-player-counter.min.js"></script>
 
-
+<link rel="stylesheet" href="iconicss.min.css">
 
 </head>
 <body>

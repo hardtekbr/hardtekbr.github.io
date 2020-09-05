@@ -119,7 +119,7 @@ p {
 	display: flex;
 	-ms-flex-pack: distribute;
 	    justify-content: space-around;
-	-ms-flex-preferred-size: 50px;
+	-ms-flex-preferred-size: 100px;
 	    flex-basis: 100px;
 	padding: 18px 0 10px 0;
 

@@ -14,6 +14,14 @@
 	<link rel="stylesheet" href="css/stylesheet.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
 	<script src="https://cdn.jsdelivr.net/gh/leonardosnt/mc-player-counter@1.1.1/dist/mc-player-counter.min.js"></script>
+  	<style type="text/css">
+	divsub {
+   	position: absolute;
+   	z-index: 10; /* Quantidade de DIV`s acima dessa */
+	}
+	</style>	
+	
+
 </head>
 <body>
 	<div class="container">
@@ -42,7 +50,7 @@
 				<p class="title">Votar</p>
 			</a>
 		</div>	
-		<div  style="background-color:powderblue; position:relative; z-index:10;">
+		<div class="divsub" style="background-color:powderblue;">
 		<!-- Replace play.myserver.net with your IP address -->
 		<!-- Do it for both examples below -->
 		<!-- Please set both your IP and port -->

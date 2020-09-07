@@ -16,7 +16,7 @@ body {
 
 html, body {
 	width: 100vw;
-	height: 150vh;
+	height: 200vh;
 	overflow-x: hidden;
 	display: -webkit-box;
 	display: -ms-flexbox;
